@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanniel 
 - 👀 I’m interested in web development specifically front-end for now.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning a lot.
 - 💞️ I’m looking to collaborate on any web development project with angular
 - ⚡ Fun fact: We can talk about movies too
 
